@@ -1,3 +1,5 @@
 django
 djangorestframework
 social-auth-app-django
+drf-yasg
+Pillow
